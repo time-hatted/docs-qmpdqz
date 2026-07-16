@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-kuktrl.koi888win.sbs/sitemap.xml
